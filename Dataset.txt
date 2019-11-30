@@ -1,1 +1,3 @@
-We used the public GTZAN dataset. You can find and download the dataset from the following link - http://opihi.cs.uvic.ca/sound/genres.tar.gz
+We used the public GTZAN dataset. 
+You can find and download the dataset from the following link -
+http://opihi.cs.uvic.ca/sound/genres.tar.gz
